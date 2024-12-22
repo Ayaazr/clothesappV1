@@ -1,7 +1,6 @@
 # clothes_app
 
 Clothes_App est une application mobile de shopping de vêtements développée en Flutter avec Dart. Elle permet aux utilisateurs de parcourir, sélectionner et acheter des vêtements en ligne. Cette application propose une interface utilisateur conviviale et des fonctionnalités essentielles pour une expérience de shopping agréable.
-# clothesappV1
 
 #Technologies:
 
